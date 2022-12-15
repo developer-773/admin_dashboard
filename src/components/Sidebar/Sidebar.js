@@ -11,6 +11,7 @@ const Sidebar = () => {
         Dashboard Kit
       </a>
       <p>example</p>
+      <p>example2</p>
     </div>
   );
 };
