@@ -10,6 +10,7 @@ const Sidebar = () => {
         <Logo />
         Dashboard Kit
       </a>
+      <p>example</p>
     </div>
   );
 };
