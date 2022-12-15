@@ -1,13 +1,13 @@
-import './App.css';
+import Diagram from "./components/Diagram/Diagram";
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
      {/* Sidebar */}
-     <div className='main'>
+     <div className="main">
        {/* Header */}
        {/* Statistics */}
-       {/* Diagram */}
+       <Diagram />
       {/* Footer */}
      </div>
     </div>
