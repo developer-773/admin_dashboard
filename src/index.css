@@ -375,7 +375,17 @@ body {
 /* CONTAINER */
 .container {
   width: 100%;
-  max-width: 1240px;
+  max-width: 1366px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.app {
+  display: flex;
+}
+
+.main {
+  flex-grow: 1;
+  padding: 30px;
+  background-color:#F7F8FC;
 }
