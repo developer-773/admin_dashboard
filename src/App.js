@@ -1,3 +1,4 @@
+
 import Diagram from "./components/Diagram/Diagram";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
        <Diagram />
       {/* Footer */}
      </div>
+
     </div>
   );
 }
